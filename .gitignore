@@ -1,0 +1,43 @@
+# Expo
+.expo/
+dist/
+web-build/
+.eas/
+
+# Paquetes
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Android
+android/app/build/
+android/.gradle/
+android/app/.cxx/
+.gradle/
+build/
+local.properties
+*.keystore
+!debug.keystore
+*.apk
+*.aab
+
+# iOS
+ios/build/
+ios/Pods/
+ios/.xcode.env.local
+DerivedData/
+*.ipa
+.DS_Store
+xcuserdata/
+
+# Pruebas
+coverage/
+.metro-health-check*
+
+# Herramientas de despliegue
+**/fastlane/report.xml
+**/fastlane/Preview.html
+**/fastlane/screenshots
+**/fastlane/test_output

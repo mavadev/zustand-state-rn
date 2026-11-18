@@ -1,0 +1,9 @@
+{
+  "name": "ContextApp",
+  "displayName": "ContextApp",
+  "extra": {
+    "eas": {
+      "projectId": "9fbbf1df-df28-4181-905d-b218cbd95024"
+    }
+  }
+}
